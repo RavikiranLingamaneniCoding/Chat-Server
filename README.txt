@@ -19,4 +19,5 @@ TESTING INSTRUCTIONS:
 
 - If you do "username": "message" a private message wil be sent 
 
-- Group message is done the same way but you separate the users with a comman and colon
+Implemented a real-time chat server using Node.js and Socket.io, enabling simultaneous client chat sessions
+Developed server-side and client-side code with JavaScript and an interactive chat interface with HTML.
